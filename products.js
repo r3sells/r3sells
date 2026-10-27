@@ -1,7 +1,8 @@
 // EDIT YOUR PRODUCTS HERE. Replace the image paths with your own product photos.
 // These six entries are DEMO examples from the design concept, not confirmed inventory.
 const PRODUCTS = [
-  {name:'Sp5der Hoodie',category:'Apparel',details:'Sizes: Ask for availability',image:'assets/product1.jpg',status:'Demo item'},
+  {
+  name: 'Supreme x Umbro Tracksuit', category: 'Apparel', details: 'Navy Blue | Sizes: S, M | Jacket + Pants', image: 'assets/supreme-umbro.png'},
   {name:'Jordan 4 Retro',category:'Sneakers',details:'Sizes: Ask for availability',image:'assets/product2.jpg',status:'Demo item'},
   {name:'Hellstar Tee',category:'Apparel',details:'Sizes: Ask for availability',image:'assets/product3.jpg',status:'Demo item'},
   {name:'Amiri Jeans',category:'Apparel',details:'Sizes: Ask for availability',image:'assets/product4.jpg',status:'Demo item'},
